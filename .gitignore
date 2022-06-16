@@ -1,0 +1,8 @@
+tmp/
+**/a.out
+/a.out
+*.bin
+*.o
+build/
+lib/
+.idea/
