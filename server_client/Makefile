@@ -1,4 +1,4 @@
-CC := clang
+CC := cc
 CFLAG := -O3
 
 all: server.c client.c
